@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+.kotlin
+build/
+.DS_Store
+captures
+
+# IDE files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionary.xml
+.idea/**/shelf/
+.idea/**/caches/
+
+# Xcode
+**/module.xcodeproj/*
+!**/module.xcodeproj/project.pbxproj
+!**/module.xcodeproj/xcshareddata/
+!**/module.xcodeproj/project.xcworkspace/
+**/xcshareddata/WorkspaceSettings.xcsettings
+xcuserdata
